@@ -9,6 +9,7 @@ Ceci est mon 1ère essaie avec Github
     </head>
     
     <body>
+    <h1> Wild Code School </h1>
         
     </body>
 </html>
