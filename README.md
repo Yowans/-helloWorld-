@@ -5,7 +5,7 @@ Ceci est mon 1ère essaie avec Github
 <html>
     <head>
         <meta charset="utf-8" />
-        <title></title>
+        <title>github</title>
     </head>
     
     <body>
